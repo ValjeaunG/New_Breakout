@@ -1,0 +1,26 @@
+﻿  Breackout2.0.cpp
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\player.h(40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\player.h(50): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\player.h(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\portal.h(42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\portal.h(43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\portal.h(57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\portal.h(58): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(83): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(88): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(93): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(94): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(98): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(99): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(104): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(105): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(135): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(136): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(178): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(179): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(190): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(191): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(430): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\vjgen\onedrive\documents\vs_projects\breakout2.0\breakout2.0\breackout2.0.cpp(914): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Breakout2.0.vcxproj -> C:\Users\vjgen\OneDrive\Documents\VS_Projects\Breakout2.0\Debug\Breakout2.0.exe
